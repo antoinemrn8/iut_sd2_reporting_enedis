@@ -8,3 +8,30 @@ Avec l’accélération du changement climatique et la hausse des prix de l’é
 En particulier, un des leviers de réduction des gaz à effets de serre (GES) et des consommations énergétiques est l’amélioration de la performance énergétique des bâtiments. Ainsi, l’un des objectifs de la Stratégie Bas Carbone (feuille de route de la France pour réduire ses émissions de GES et atteindre la neutralité carbone en 2050), est de diminuer d‘ici 2030 les émissions de gaz à effets de serre des bâtiments.
 
 Dans ce contexte, le Diagnostic de Performance Energétique (DPE) permet d’évaluer la performance énergétique et climatique d’un bâtiment. Il consiste en une étiquette pouvant aller de A à G pour chaque logement ou bâtiment, qui évalue sa consommation d’énergie et son impact en terme d’émission de GES. Il sert notamment à identifier les passoires énergétiques (étiquettes F et G du DPE, c’est-à-dire les logements qui consomment le plus d’énergie et/ou émettent le plus de gaz à effet de serre). Il a pour objectif d’informer l’acquéreur ou le locataire sur la « valeur verte », de recommander des travaux à réaliser pour l’améliorer et d’estimer ses charges énergétiques. De plus, la mise en location de ces passoires thermiques sera progressivement interdite (interdiction pour les bâtiments notés G+ au 1er janvier 2023, qui sera étendue par la suite). On trouvera plus d’informations ici.
+
+# iut_sd2_powerbi_enedis
+Projet PowerBI S3 <br>
+Par Ewann MARRE, Antoine MAURIN, Rafael SANZ et Quentin ZAVAGNO
+
+Ce document `README.md` est présent dans le repository du projet. Il permet de présenter les objectifs globaux, les livrables attendus et les spécifications de .
+
+Dans le cadre d'un Projet PowerBI, 
+
+## Objectifs globaux & Livrables
+
+Voici les principaux livrables attendus pour ce projet :
+
+- [x]  **Repository GitHub**
+- [x]  **Documentation Technique**
+- [x]  **Documentation Fonctionnelle**
+- [x]  **Captation Vidéo**
+- [x]  **DashBoard PowerBI**
+
+
+
+## Liens utiles
+
+* [Lien vers le dashboard](...)
+* [Lien vers la vidéo de présentation](...)
+* [Lien vers la documentation technique](https://github.com/antoinemrn8/iut_sd2_powerbi_enedis_MARRE_MAURIN_SANZ_ZAVAGNO/blob/main/Documentations/Documentation%20technique.md)
+* [Lien vers la documentation fonctionnelle](https://github.com/antoinemrn8/iut_sd2_powerbi_enedis_MARRE_MAURIN_SANZ_ZAVAGNO/blob/main/Documentations/Documentation%20fonctionnelle.md)
